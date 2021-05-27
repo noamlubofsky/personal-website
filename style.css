@@ -1,15 +1,12 @@
 body {
-    background-color: steelblue;
+    background-color: rgb(25, 47, 70);
 }
 
-h1, h2 {
-    color: tan;
+h1 {
+    color: tan; text-shadow: 2px 2px 4px #000000;
 }
 
 p {
-    color: wheat;
+    color: wheat; text-shadow: 2px 2px 4px #000000;
 }
 
-h1 {text-align: center;}
-h2 {text-align: center;}
-p {text-align: center;}
